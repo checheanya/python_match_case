@@ -5,6 +5,13 @@ First of all, in order to run all scripts and explore the power of match-case st
 
 The main conspect with example codes showcasing main options is in the `Match_case.ipynb` notebook, check it out if you want to get some insights on the match-case and ret rid of wordy `if-elif-elif-else` parts in your code! 
 
+To download the notedook and example scripts run:
+
+```bash
+https://github.com/checheanya/python_match_case.git
+cd python_match_case
+```
+
 Here we provide several examples of match-case in more or less big programs, that you might face:
 
 ### 1. **Calculator**   :triangular_ruler: 	:straight_ruler: 
