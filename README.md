@@ -7,7 +7,7 @@ The main conspect with example codes showcasing main options is in the `Match_ca
 
 Here we provide several examples of match-case in more or less big programs, that you might face:
 
-### 1. **Calculator**   :triangular_ruler: 	:straight_ruler: <br>
+### 1. **Calculator**   :triangular_ruler: 	:straight_ruler: 
 This program implements simple calculator preforming different operations based on the user's choice. The calculator function takes an operation, two numbers, and uses the match case statement to determine which operation to perform. You can run the program by simply typing:
 
 ```python
@@ -24,3 +24,13 @@ python bank_account.py
 ```
 Just follow the instructions on the screen and have fun while match-case is doing its work under the hood. <br>
 Chech out the code of the `bank_account.py` to see what's goin on there. 
+
+### 2. Nucleic acids operations :dna: 
+
+In this small script we implemented basic operation with DNA and RNA using match-case statement for choosing the right functions to perform. You can edit script calls after example comment and see how match-case handles different combinations of elements given.
+To run the default example, simply run:
+
+```python
+python nucleic_acids.py
+```
+
