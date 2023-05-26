@@ -15,16 +15,16 @@ def divide(x, y):
 
 def calculator(operation, x, y):
     match operation:
-        case '+':
+        case '1':
             result = add(x, y)
             print(f"{x} + {y} = {result}")
-        case '-':
+        case '2':
             result = subtract(x, y)
             print(f"{x} - {y} = {result}")
-        case '*':
+        case '3':
             result = multiply(x, y)
             print(f"{x} * {y} = {result}")
-        case '/':
+        case '4':
             result = divide(x, y)
             if result is not None:
                 print(f"{x} / {y} = {result}")
